@@ -43,4 +43,4 @@ The directory structure is the same as the one given with the project
                      └── output1.txt
                      └── output2.txt
                      └── output3.txt
-To
+It can be executed with the same step as the one given in the example.
